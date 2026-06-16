@@ -1,5 +1,5 @@
-SolarAI – Intelligent Solar Recommendation & Prediction Assistant
-Overview
+## SolarAI – Intelligent Solar Recommendation & Prediction Assistant
+# Overview
 
 SolarAI is an AI-powered platform that helps homeowners, businesses, and solar installers:
 
